@@ -28,7 +28,7 @@ var debounce = require("lodash.debounce");
 export default {
   data() {
     return {
-      name: "猫眼电影",
+      name: "天天电影",
       falg: false,
       value: "",
       list: ""
