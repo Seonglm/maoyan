@@ -8,7 +8,7 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    name: "猫眼电影",
+    name: "天天电影",
     path: "/",
     component: HomeView,
     meta: {
