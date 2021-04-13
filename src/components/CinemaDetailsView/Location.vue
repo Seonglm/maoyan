@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="location-title">
-      <span>猫眼电影 &gt;</span>
+      <span>天天电影 &gt;</span>
       &nbsp;
       <span>{{ CinemaDetails.nm }}</span>
     </div>
