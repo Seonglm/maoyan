@@ -14,10 +14,10 @@
       <!-- 底部 -->
       <footer class="footer">
         <div>
-          © 猫眼电影 客服电话:
+          © 电影 客服电话:
           <a href="#">1010-5353</a>
         </div>
-        <div>北京猫眼文化传媒有限公司</div>
+        <div></div>
       </footer>
     </div>
     <div class="loading" v-else>
